@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/parsing.dir/tests/parsing.c.o -o parsing  libei.a ../_x11/libeibase64.a -L/user/7/volandd/Documents/1A-S2/le-projet-c/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm 

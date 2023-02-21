@@ -1,0 +1,13 @@
+/opt/clion-2021.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /user/7/volandd/Documents/1A-S2/le-projet-c
+CMake Deprecation Warning at CMakeLists.txt:7 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Building for Linux with eibase: /user/7/volandd/Documents/1A-S2/le-projet-c/_x11/libeibase64.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug

@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjetC_IG"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doc">
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 doc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="widgets_test">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/widgets_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 widgets_test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="widgets_test/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/widgets_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 widgets_test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="toplevel">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/toplevel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 toplevel"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="toplevel/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/toplevel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 toplevel/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="widgets">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/widgets" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 widgets"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="widgets/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/widgets" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 widgets/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/button" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 button"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/button" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 button/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/frame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 frame"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/frame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 frame/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/minimal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 minimal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/minimal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 minimal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ei">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/libei.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 ei"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ei/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/libei.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 ei/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/hello_world" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_world"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/hello_world" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_world/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button2">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/button2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 button2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button2/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/button2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 button2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two048">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/two048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 two048"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two048/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/two048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 two048/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame2">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/frame2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 frame2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame2/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/frame2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 frame2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="puzzle">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/puzzle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 puzzle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="puzzle/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/puzzle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 puzzle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 minesweeper"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 minesweeper/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gridder">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/gridder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 gridder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gridder/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/gridder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 gridder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parsing">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/parsing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 parsing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parsing/fast">
+				<Option output="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/parsing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/1A-S2/le-projet-c/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 parsing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/7/volandd/Documents/1A-S2/le-projet-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_application.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_border.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_button.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_draw.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_draw_extension.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_event.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_event_handler.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_frame.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_geometrymanager.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_gridder.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_placer.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_toplevel.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_widget.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_widget_extension.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/src/ei_widgetclass.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/button.c">
+			<Option target="button"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/button_test2.c">
+			<Option target="button2"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/frame.c">
+			<Option target="frame"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/frame_test2.c">
+			<Option target="frame2"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/gridder.c">
+			<Option target="gridder"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/hello_world.c">
+			<Option target="hello_world"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/minesweeper.c">
+			<Option target="minesweeper"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/minimal.c">
+			<Option target="minimal"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/parsing.c">
+			<Option target="parsing"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/puzzle.c">
+			<Option target="puzzle"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/toplevel_test.c">
+			<Option target="toplevel"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/two048.c">
+			<Option target="two048"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/tests/widgets_test.c">
+			<Option target="widgets_test"/>
+			<Option target="widgets"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/1A-S2/le-projet-c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
